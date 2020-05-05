@@ -1,0 +1,12 @@
+#include<stdio.h>
+
+int main(void)
+{
+	printf("Hu Ze\n");
+	printf("Hu\nZe\n");
+	printf("Hu ");
+	printf("Ze\n");
+
+	system("pause");
+	return 0;
+}
